@@ -1,4 +1,4 @@
-<h1>Network Scanner/h1>
+<h1>Network Scanner</h1>
 
   - Simple script that scans a network
   - Prints out IP addr and MAC addr
