@@ -1,5 +1,5 @@
 # Network Scanner
-  - Prints out IP addr and MAC addr of devices in the network
+Prints out IP addr and MAC addr of devices in the network
 
 ## Arguments 
   - Positional:
