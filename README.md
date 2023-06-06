@@ -2,10 +2,9 @@
 Prints out IP addr and MAC addr of devices in the network
 
 ## Arguments 
-  - Positional:
-    - Network address
+  - Network address
 
 ## Usage
 ```
-python networkscanner.py [NETWORK ADDRESS]
+networkscanner.py [NETWORK ADDRESS]
 ```
