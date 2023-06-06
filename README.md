@@ -7,5 +7,5 @@ Prints out IP addr and MAC addr of devices in the network
 
 ## Usage
 ```
-python networkscanner.py "x.x.x.x/x"
+python networkscanner.py [NETWORK ADDRESS]
 ```
